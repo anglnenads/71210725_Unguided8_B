@@ -1,0 +1,5 @@
+Gelas A dituangkan 1000L air
+Dari gelas A mengalir sebanyak 500 liter ke gelas B,karena diberi lubang dibagian tengah gelas sehingga hanya setengah isi dari gelas tersebut yang mengalir
+Dari gelas B mengalir sebanyak 150 liter ke gelas C, karena gelas B tidak terisi penuh 
+Dari gelas C tidak ada air yang mengalir ke gelas D, karena gelas C hanya setengah yang terisi sehingga tidak ada air yang dapat mengalir melalui sedotan pada bagian tengah gelas
+Tidak ada air yang terisi pada gelas D
